@@ -1,10 +1,7 @@
-.ekit-wid-con ul.ekit-dropdown-menu.ekit-dropdown-menu-mini-cart {
-    display: none;
-}
-
-.ekit-wid-con a.ekit-dropdown-back:active,
-.ekit-wid-con a.ekit-dropdown-back:focus,
-.ekit-wid-con a.ekit-dropdown-back:hover,
-.ekit-wid-con a.ekit-dropdown-back:visited{
-    color: black;
-}
+<html>
+<head><title>401 Authorization Required</title></head>
+<body>
+<center><h1>401 Authorization Required</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
